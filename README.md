@@ -34,3 +34,9 @@ On the terminal, Run command `npm run cleanup` to clean the "Reporting" director
 - Page Object Model design pattern
 - Support for cross browser testing
 
+# Dockerised integration
+- docker-compose.yml
+- config settings in wdio.conf.js
+- This container runs in different nodes of selenium hub
+
+
