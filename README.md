@@ -33,3 +33,4 @@ On the terminal, Run command `npm run cleanup` to clean the "Reporting" director
 - Chai Assetions
 - Page Object Model design pattern
 - Support for cross browser testing
+
